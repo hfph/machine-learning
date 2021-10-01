@@ -1,0 +1,369 @@
+Id,Adult,Ages,ColleagueSatisfaction,CompaniesWorkedCount,CompanyDuration,Division,DurationWithCurrManager,EducationBackground,EducationField,HomeDist,JobEngagement,JobLvl,LastPromotion,MarriageStatus,MonthlyPay,Outstation,Performance,Role,RoleDuration,SalaryIncreaseRate,Sex,StockOptionLvl,TrainingCount,WorkLifeQuality,WorkOverTime,WorkSatisfaction,WorkingDuration,WorkingHours,WorkplaceSatisfaction
+0,Y,39,Low,3.0,4.0,Research & Development,4,Bachelor,Medical,1.0,High,2,0,Married,6131.0,rare,High,Manufacturing Director,2,11,Male,,1,Better,No,Medium,6,80,High
+1,Y,52,High,2.0,4.0,Sales,4,Master,Marketing,8.0,High,2,0,Single,6521.0,rare,High,Sales Executive,1,12,Female,0.0,0,Best,No,Very High,7,80,Very High
+2,Y,48,High,2.0,10.0,Sales,9,Secondary,Marketing,3.0,Medium,5,0,Married,7796.0,rare,High,Manager,4,15,Female,1.0,1,Better,No,Medium,24,80,Very High
+3,Y,54,High,6.0,18.0,Research & Development,16,Bachelor,Life Sciences,5.0,High,5,10,Single,5266.0,rare,High,Research Director,20,14,Male,0.0,4,Better,No,High,21,80,Low
+4,Y,36,Very High,1.0,4.0,Sales,3,Bachelor,Medical,1.0,High,2,0,Single,5437.0,rare,High,Sales Executive,4,18,Female,0.0,2,Better,No,High,4,80,Low
+5,Y,47,Very High,0.0,8.0,Research & Development,9,Secondary,Life Sciences,21.0,Medium,2,2,,17919.0,rare,High,Manufacturing Director,8,14,Female,2.0,1,Good,No,Very High,9,80,Medium
+6,Y,55,High,2.0,4.0,Research & Development,4,Bachelor,Medical,2.0,Medium,3,0,Married,,rare,High,Manufacturing Director,4,15,Male,0.0,3,Better,Yes,High,25,80,Very High
+7,Y,56,High,4.0,2.0,Sales,2,Bachelor,Marketing,7.0,High,4,1,Married,17121.0,rare,High,Sales Executive,0,15,Male,1.0,2,Better,No,Very High,25,80,Low
+8,Y,37,High,,3.0,Research & Development,2,Master,Medical,1.0,Medium,2,0,Married,11764.0,no travel,High,Manufacturing Director,2,17,Female,0.0,4,Better,No,High,3,80,Very High
+9,Y,43,Low,5.0,1.0,Research & Development,0,Secondary,Life Sciences,4.0,Medium,1,0,Divorced,15309.0,no travel,High,Research Scientist,0,19,Male,1.0,1,Bad,No,Low,4,80,Low
+10,Y,36,Low,1.0,3.0,Research & Development,2,Bachelor,Other,8.0,High,1,0,Divorced,7502.0,rare,Very High,Laboratory Technician,2,24,Male,1.0,3,Good,No,Very High,3,80,Medium
+11,Y,48,High,5.0,6.0,Human Resources,8,Secondary,Life Sciences,1.0,High,1,3,Single,17243.0,rare,High,Human Resources,6,12,Female,0.0,2,Best,No,Low,9,80,Very High
+12,Y,38,Low,2.0,1.0,Research & Development,0,Secondary,Life Sciences,8.0,Very High,1,0,Single,11634.0,rare,High,Research Scientist,0,19,Male,0.0,1,Better,No,Very High,3,80,Very High
+13,Y,52,Medium,2.0,13.0,Research & Development,12,Primary,Life Sciences,5.0,Medium,4,1,Married,9034.0,rare,High,Healthcare Representative,12,22,Female,1.0,2,Better,Yes,High,27,80,High
+14,Y,55,Low,1.0,30.0,Sales,17,Master,Marketing,2.0,Medium,4,0,Married,7896.0,rare,High,Manager,6,11,Male,0.0,2,Best,No,Low,31,80,High
+15,Y,36,Low,1.0,9.0,Sales,9,Bachelor,Marketing,1.0,High,3,0,Single,7179.0,frequent,High,Sales Executive,7,15,Female,,2,Best,No,High,9,80,High
+16,Y,32,High,1.0,4.0,Sales,2,Bachelor,Technical Degree,4.0,High,2,0,Married,15781.0,rare,High,Sales Executive,2,22,Male,1.0,2,Better,No,High,5,80,Low
+17,Y,41,Low,1.0,19.0,Research & Development,3,Secondary,Medical,6.0,Medium,5,8,Married,15924.0,frequent,High,Manager,10,17,Male,1.0,1,Better,No,Very High,19,80,High
+18,Y,35,Very High,2.0,10.0,Research & Development,9,Bachelor,Medical,4.0,Medium,3,3,Single,4651.0,rare,High,Manager,11,12,Female,0.0,4,Better,No,Low,13,80,High
+19,Y,34,Very High,1.0,12.0,Research & Development,14,Bachelor,Medical,17.0,Very High,1,1,Married,10476.0,rare,High,Laboratory Technician,12,21,Male,3.0,4,Better,No,Medium,13,80,Medium
+20,Y,52,Very High,1.0,8.0,Research & Development,4,Master,Life Sciences,21.0,High,1,0,Married,16622.0,rare,High,Laboratory Technician,6,15,Female,1.0,2,Good,No,Low,9,80,High
+21,Y,32,Medium,2.0,6.0,Sales,2,Master,,6.0,Medium,1,3,Married,9096.0,rare,High,Sales Representative,7,17,Male,0.0,1,Best,No,High,12,80,Medium
+22,Y,30,Low,1.0,10.0,Sales,10,Primary,Life Sciences,19.0,Medium,3,2,Married,8679.0,rare,High,Sales Executive,8,14,Female,1.0,2,Bad,No,Low,10,80,Very High
+23,Y,19,Very High,1.0,1.0,Research & Development,1,Bachelor,Life Sciences,21.0,Very High,1,0,Single,15983.0,rare,High,Research Scientist,0,12,Female,0.0,1,Better,Yes,Very High,1,80,Medium
+24,Y,56,Very High,3.0,3.0,Research & Development,2,Master,Medical,1.0,Medium,4,0,Married,16772.0,no travel,Very High,Manufacturing Director,2,24,Female,3.0,1,Good,Yes,High,24,80,Low
+25,Y,45,Very High,3.0,4.0,Research & Development,2,Bachelor,Medical,6.0,Very High,1,1,Divorced,4370.0,no travel,High,Research Scientist,4,15,Male,3.0,2,Best,No,Very High,6,80,Very High
+26,Y,32,High,1.0,1.0,Research & Development,0,Bachelor,Life Sciences,7.0,Medium,1,0,Single,16738.0,rare,High,Research Scientist,0,12,Female,0.0,2,Best,No,Medium,1,80,Low
+27,Y,32,Low,2.0,1.0,Sales,0,Master,Marketing,13.0,High,3,0,Married,14371.0,rare,High,Sales Executive,0,14,Male,3.0,1,Better,No,High,9,80,Low
+28,Y,39,Very High,3.0,,Research & Development,0,Bachelor,Life Sciences,1.0,High,3,0,Single,11754.0,rare,High,Manufacturing Director,0,15,Female,0.0,3,Best,Yes,High,9,80,High
+29,Y,25,High,1.0,2.0,Research & Development,1,Primary,,6.0,Medium,1,1,Married,20104.0,rare,High,Research Scientist,2,11,Male,2.0,1,Better,No,Very High,2,80,Very High
+30,Y,37,Very High,3.0,6.0,Sales,8,Master,Technical Degree,7.0,High,2,0,Divorced,19418.0,no travel,High,Sales Executive,7,14,Male,2.0,2,Better,No,Very High,11,80,Low
+31,Y,61,Very High,,1.0,Research & Development,0,Primary,Life Sciences,1.0,Medium,1,0,Divorced,10292.0,frequent,High,Laboratory Technician,0,15,Male,1.0,2,Good,Yes,Very High,3,80,Very High
+32,Y,42,Very High,8.0,3.0,Research & Development,2,Doctorate,Life Sciences,8.0,Medium,2,0,Married,10915.0,no travel,High,Healthcare Representative,2,15,Male,1.0,4,Bad,No,Very High,4,80,Very High
+33,Y,29,Very High,1.0,3.0,Research & Development,2,Bachelor,Life Sciences,5.0,Medium,1,0,Divorced,16612.0,frequent,High,Research Scientist,1,15,Male,1.0,1,Better,Yes,High,3,80,High
+34,Y,58,Very High,2.0,1.0,Sales,0,Secondary,Life Sciences,1.0,High,3,0,Married,13711.0,rare,High,Sales Executive,0,15,Male,1.0,3,Better,No,Very High,22,80,Low
+35,Y,24,Very High,1.0,5.0,Research & Development,2,Bachelor,Life Sciences,6.0,High,1,0,Married,10861.0,frequent,High,Laboratory Technician,3,18,Female,1.0,3,Better,Yes,High,5,80,Low
+36,Y,33,Medium,0.0,3.0,Research & Development,2,Bachelor,Life Sciences,1.0,High,1,0,,7216.0,no travel,High,Laboratory Technician,0,12,Male,1.0,1,Better,No,Very High,3,80,Very High
+37,Y,37,Very High,3.0,1.0,Research & Development,0,Master,Life Sciences,15.0,Very High,1,0,,5745.0,frequent,High,Laboratory Technician,0,21,Male,2.0,1,Better,No,Very High,3,80,High
+38,Y,25,High,0.0,3.0,Sales,2,Bachelor,Life Sciences,7.0,Very High,2,0,Married,11958.0,rare,Very High,Sales Executive,2,26,Male,,3,Better,No,Medium,3,80,Very High
+39,Y,38,Low,2.0,4.0,Sales,3,Bachelor,Life Sciences,2.0,High,3,0,Single,11107.0,rare,High,Sales Executive,3,12,Male,,2,Better,No,Very High,11,80,High
+40,Y,36,Medium,1.0,3.0,Sales,2,Master,Life Sciences,7.0,High,1,0,Married,15326.0,rare,High,Sales Representative,2,18,Female,1.0,0,Good,No,Very High,3,80,Low
+41,Y,31,High,1.0,9.0,Research & Development,0,Primary,Life Sciences,1.0,Medium,2,2,Married,12190.0,rare,High,Laboratory Technician,8,12,Male,2.0,0,Good,Yes,Very High,9,80,Very High
+42,Y,59,Low,3.0,17.0,Research & Development,10,Bachelor,Life Sciences,19.0,High,4,10,Married,13814.0,rare,High,Manufacturing Director,18,12,Male,1.0,0,Better,Yes,Medium,30,80,Very High
+43,Y,35,High,0.0,2.0,Research & Development,2,Secondary,Medical,15.0,High,1,0,Divorced,6933.0,rare,High,Laboratory Technician,2,11,Male,1.0,1,Better,No,Very High,3,80,Medium
+44,Y,29,Very High,1.0,4.0,Research & Development,2,Secondary,Life Sciences,7.0,High,1,0,Single,3833.0,rare,Very High,Research Scientist,3,25,Female,0.0,2,Better,No,Very High,4,80,Very High
+45,Y,44,High,5.0,4.0,Research & Development,2,Master,Life Sciences,15.0,High,2,0,Divorced,8698.0,rare,High,Research Scientist,3,19,Male,1.0,2,Good,Yes,Low,8,80,Very High
+46,Y,38,High,4.0,12.0,Sales,8,Master,Life Sciences,1.0,Medium,3,7,Married,11409.0,rare,High,Sales Executive,1,11,Male,,1,Bad,No,High,15,80,Low
+47,Y,32,Medium,0.0,8.0,Research & Development,9,Bachelor,,19.0,Medium,2,4,Married,11036.0,rare,Very High,Healthcare Representative,0,25,Male,1.0,1,Better,No,Very High,9,80,Medium
+48,Y,32,Very High,2.0,3.0,Sales,2,Master,Marketing,6.0,High,3,1,Married,6584.0,frequent,High,Sales Executive,2,15,Female,2.0,2,Better,No,Low,8,80,Low
+49,Y,36,Medium,2.0,7.0,Research & Development,6,Bachelor,Other,6.0,High,3,0,Single,,rare,Very High,Manufacturing Director,5,25,Male,0.0,2,Best,No,High,15,80,High
+50,Y,29,Low,0.0,8.0,Research & Development,6,Bachelor,Life Sciences,1.0,Low,2,4,Married,12476.0,no travel,High,Laboratory Technician,8,11,Female,3.0,4,Better,No,Very High,9,80,High
+51,Y,32,Medium,1.0,1.0,Sales,0,Master,Life Sciences,1.0,Low,1,0,Single,12303.0,frequent,High,Sales Representative,0,12,Female,0.0,2,Better,No,High,1,80,Medium
+52,Y,33,Very High,0.0,7.0,Sales,8,Secondary,Medical,8.0,Low,2,0,Divorced,17138.0,frequent,High,Sales Executive,7,19,Male,3.0,1,Best,No,Very High,8,80,Very High
+53,Y,37,Medium,3.0,1.0,Sales,0,Doctorate,Medical,1.0,High,2,0,Single,11666.0,no travel,High,Sales Executive,0,17,Female,0.0,4,Better,No,Very High,6,80,Very High
+54,Y,35,Low,3.0,7.0,Research & Development,8,Bachelor,Medical,24.0,High,2,4,Married,13274.0,rare,High,Laboratory Technician,7,14,Male,2.0,0,Better,No,High,9,80,Medium
+55,Y,36,High,3.0,7.0,Research & Development,0,Bachelor,Life Sciences,13.0,High,3,0,Married,10954.0,rare,High,Healthcare Representative,7,12,Male,0.0,1,Better,Yes,High,9,80,Very High
+56,Y,55,Medium,2.0,8.0,Research & Development,9,Secondary,Life Sciences,1.0,High,4,4,Married,10615.0,rare,High,Manager,8,17,Male,1.0,1,Good,No,Very High,24,80,Very High
+57,Y,30,High,1.0,2.0,Sales,2,Bachelor,Marketing,8.0,Low,1,1,Single,11197.0,rare,High,Sales Representative,2,14,Female,0.0,2,Better,No,Medium,2,80,Medium
+58,Y,30,High,8.0,4.0,Sales,4,Bachelor,Medical,8.0,Medium,2,0,Single,17574.0,rare,High,Sales Executive,2,11,Male,0.0,1,Better,No,High,7,80,High
+59,Y,32,Very High,1.0,4.0,Research & Development,3,Master,Life Sciences,1.0,High,1,0,Married,13719.0,rare,High,Laboratory Technician,2,15,Male,1.0,1,Best,No,High,5,80,Medium
+60,Y,38,Medium,5.0,0.0,Research & Development,0,Secondary,Other,1.0,Medium,1,0,,2314.0,rare,High,Laboratory Technician,0,17,Male,0.0,2,Better,Yes,High,6,80,Very High
+61,Y,44,High,2.0,3.0,Research & Development,2,Secondary,Life Sciences,14.0,Very High,2,0,Single,17286.0,rare,High,Research Scientist,2,14,Female,0.0,0,Better,Yes,Low,9,80,Very High
+62,Y,27,Very High,,8.0,Sales,8,Bachelor,Life Sciences,7.0,High,3,0,,2734.0,frequent,High,Sales Executive,8,17,Male,0.0,0,Better,No,High,8,80,Very High
+63,Y,27,High,1.0,4.0,Research & Development,2,Bachelor,Life Sciences,5.0,Medium,1,1,Married,6346.0,rare,High,Research Scientist,2,14,Male,1.0,0,Better,No,High,3,80,Very High
+64,Y,38,High,1.0,5.0,Sales,3,Master,Medical,1.0,Low,2,0,Divorced,6148.0,frequent,High,Sales Executive,3,15,Male,2.0,1,Good,No,Very High,5,80,High
+65,Y,49,High,4.0,4.0,Research & Development,4,Secondary,Medical,1.0,High,2,0,Divorced,5939.0,rare,High,Manufacturing Director,0,14,Female,3.0,1,Better,No,Very High,18,80,Low
+66,Y,37,High,0.0,13.0,Research & Development,12,Bachelor,Life Sciences,5.0,High,1,6,,15278.0,rare,High,Laboratory Technician,14,11,Male,1.0,3,Better,No,Very High,14,80,Very High
+67,Y,27,Medium,0.0,4.0,Sales,1,Primary,Marketing,7.0,High,2,0,Married,18006.0,frequent,High,Sales Executive,2,22,Male,1.0,2,Better,No,Very High,4,80,High
+68,Y,42,Medium,6.0,4.0,Sales,3,Bachelor,Technical Degree,8.0,Medium,2,0,Divorced,8990.0,rare,High,Sales Executive,1,12,Female,1.0,1,Best,No,Medium,6,80,Medium
+69,Y,35,Low,8.0,3.0,Sales,2,Master,Marketing,3.0,High,2,0,Married,9824.0,no travel,High,Sales Executive,2,17,Female,1.0,2,Better,No,High,5,80,High
+70,Y,44,Low,6.0,4.0,Human Resources,3,Doctorate,Medical,1.0,Very High,2,0,Married,9910.0,no travel,High,Human Resources,3,18,Male,1.0,2,Best,No,Low,9,80,Very High
+71,Y,48,Medium,1.0,23.0,Sales,12,Master,Life Sciences,1.0,Very High,4,0,Single,2866.0,rare,High,Manager,0,17,Male,0.0,4,Bad,No,Low,24,80,Very High
+72,Y,44,Very High,0.0,,Research & Development,8,Secondary,Medical,1.0,High,4,8,Married,11029.0,rare,High,Manager,6,19,Male,1.0,2,Better,No,Low,21,80,Very High
+73,Y,24,Medium,1.0,4.0,Research & Development,2,Secondary,Life Sciences,1.0,Medium,2,0,Single,10827.0,rare,High,Healthcare Representative,3,12,Male,0.0,1,Good,No,High,3,80,Medium
+74,Y,35,Low,1.0,8.0,Research & Development,2,Master,Life Sciences,8.0,Very High,2,4,,12918.0,frequent,High,Manufacturing Director,7,14,Male,1.0,2,Better,No,Very High,8,80,High
+75,Y,38,Very High,2.0,1.0,Research & Development,1,Master,Life Sciences,8.0,High,2,0,Single,15911.0,rare,High,Manufacturing Director,0,12,Male,0.0,1,Good,Yes,Medium,16,80,High
+76,Y,36,Very High,3.0,3.0,Research & Development,2,Bachelor,Medical,1.0,High,1,0,Married,4835.0,frequent,High,Research Scientist,2,14,Male,1.0,1,Good,No,Low,4,80,Medium
+77,Y,39,Medium,2.0,3.0,Research & Development,2,Doctorate,Technical Degree,2.0,High,2,1,Single,2246.0,rare,Very High,Research Scientist,2,24,Female,0.0,1,Better,Yes,High,17,80,Very High
+78,Y,48,High,6.0,2.0,Research & Development,2,Master,Medical,1.0,High,5,1,Divorced,10898.0,rare,High,Research Director,1,19,Male,1.0,2,Better,Yes,Very High,22,80,High
+79,Y,33,Low,5.0,4.0,Research & Development,3,Bachelor,Life Sciences,8.0,High,1,0,Married,13179.0,frequent,High,Research Scientist,2,14,Male,1.0,2,Good,No,High,9,80,Low
+80,Y,35,High,4.0,4.0,Research & Development,3,Master,Other,1.0,High,1,0,Divorced,15302.0,frequent,High,Research Scientist,3,15,Male,2.0,1,Better,No,Low,9,80,Very High
+81,Y,63,Low,2.0,1.0,Research & Development,0,Bachelor,Life Sciences,2.0,Medium,1,0,Married,6714.0,rare,High,Research Scientist,0,19,Male,1.0,4,Better,No,Very High,6,80,High
+82,Y,56,High,2.0,4.0,Research & Development,3,Bachelor,Life Sciences,6.0,Very High,4,0,Married,10386.0,rare,High,Research Director,1,22,Male,0.0,2,Better,No,High,29,80,High
+83,Y,35,Medium,4.0,3.0,Sales,2,Secondary,Life Sciences,7.0,High,2,0,Married,10235.0,rare,High,Sales Executive,2,19,Female,1.0,0,Better,No,Low,5,80,High
+84,Y,31,Very High,6.0,7.0,Sales,8,Doctorate,Marketing,23.0,High,2,4,Divorced,18926.0,rare,Very High,Sales Executive,7,28,Male,1.0,1,Good,No,Very High,9,80,High
+85,Y,39,High,2.0,1.0,Research & Development,0,Bachelor,Medical,15.0,Low,2,0,Married,18392.0,rare,High,Healthcare Representative,0,18,Male,1.0,1,Better,Yes,Very High,13,80,Medium
+86,Y,48,Low,3.0,6.0,Sales,3,Bachelor,Marketing,8.0,High,3,2,Divorced,12181.0,rare,High,Sales Executive,7,11,Male,1.0,0,Best,No,Very High,25,80,Low
+87,Y,30,Medium,4.0,2.0,Research & Development,1,Doctorate,Technical Degree,21.0,Medium,1,0,Married,13862.0,rare,High,Research Scientist,2,18,Female,0.0,1,Best,No,Medium,5,80,High
+88,Y,35,Medium,5.0,10.0,Research & Development,10,Master,Life Sciences,1.0,Medium,2,3,Married,17773.0,rare,High,Manufacturing Director,10,14,Male,1.0,2,Better,No,Low,12,80,Very High
+89,Y,48,Very High,7.0,4.0,Human Resources,2,Secondary,Medical,4.0,High,2,0,Divorced,8144.0,rare,Very High,Human Resources,2,26,Male,1.0,1,Better,Yes,Medium,14,80,Medium
+90,Y,32,Medium,3.0,7.0,Sales,8,Bachelor,Technical Degree,6.0,Very High,2,4,Married,9462.0,rare,High,Sales Executive,7,11,,1.0,2,Good,No,Very High,9,80,Medium
+91,Y,33,High,1.0,7.0,Research & Development,3,Master,Medical,2.0,High,2,4,Married,10416.0,rare,High,Manufacturing Director,7,12,Female,1.0,1,Best,No,Low,7,80,High
+92,Y,33,Very High,2.0,,Research & Development,8,Secondary,Life Sciences,2.0,High,3,4,Single,14641.0,rare,High,Research Director,7,17,Female,0.0,4,Better,No,Very High,9,80,High
+93,Y,44,Medium,1.0,21.0,Research & Development,10,Bachelor,Life Sciences,7.0,High,5,9,Divorced,12355.0,frequent,High,Manager,7,14,Male,1.0,3,Good,No,Very High,22,80,Medium
+94,Y,38,Low,0.0,5.0,Research & Development,3,Secondary,Technical Degree,4.0,Very High,1,0,Single,19068.0,no travel,High,Laboratory Technician,5,15,Male,0.0,1,Bad,No,High,6,80,High
+95,Y,52,Low,1.0,8.0,Sales,8,Bachelor,Marketing,8.0,High,3,4,Married,4829.0,rare,High,Sales Executive,8,21,Female,2.0,2,Best,No,Very High,8,80,High
+96,Y,37,Very High,8.0,,Research & Development,0,Master,Life Sciences,4.0,Medium,1,0,Married,10066.0,rare,High,Research Scientist,1,15,Female,1.0,2,Best,Yes,Low,5,80,Medium
+97,Y,35,Very High,2.0,4.0,Research & Development,3,Secondary,Medical,7.0,High,2,2,Single,5918.0,rare,High,Healthcare Representative,1,11,Female,0.0,1,Better,No,High,9,80,Medium
+98,Y,36,High,1.0,1.0,Research & Development,0,Bachelor,Life Sciences,2.0,Medium,1,0,Married,12845.0,no travel,High,Laboratory Technician,0,21,Male,2.0,2,Better,No,High,1,80,High
+99,Y,57,Low,8.0,4.0,Research & Development,3,Master,Technical Degree,1.0,High,3,0,Married,18001.0,rare,High,Research Director,3,12,Female,1.0,4,Bad,No,High,14,80,Low
+100,Y,41,High,8.0,7.0,Human Resources,6,Bachelor,Human Resources,2.0,Very High,2,2,Married,14201.0,rare,High,Human Resources,3,17,Female,1.0,2,Bad,No,Medium,11,80,High
+101,Y,35,High,,3.0,Human Resources,2,Bachelor,Human Resources,19.0,High,3,0,,8948.0,frequent,High,Human Resources,2,17,Female,3.0,1,Better,Yes,Low,10,80,Medium
+102,Y,24,High,1.0,1.0,Research & Development,0,Bachelor,Life Sciences,8.0,Medium,1,0,Divorced,19853.0,no travel,High,Laboratory Technician,0,11,Male,3.0,3,Better,No,Medium,1,80,High
+103,Y,33,Very High,1.0,1.0,Research & Development,0,Primary,Life Sciences,1.0,High,1,0,Single,11595.0,rare,High,Research Scientist,0,14,Male,0.0,1,Better,No,Low,1,80,Very High
+104,Y,47,High,2.0,0.0,Research & Development,0,Bachelor,Medical,21.0,High,5,0,Single,10039.0,frequent,Very High,Manager,0,26,,0.0,3,Better,No,Medium,20,80,Medium
+105,Y,42,Low,6.0,11.0,Sales,12,Master,Marketing,3.0,Medium,3,1,Married,6784.0,rare,High,Sales Executive,12,11,Male,1.0,1,Good,No,Very High,13,80,High
+106,Y,35,High,2.0,4.0,Research & Development,3,Master,Life Sciences,1.0,Very High,1,0,Single,,rare,High,Research Scientist,2,18,Female,0.0,1,Better,No,Very High,9,80,Medium
+107,Y,22,Medium,0.0,0.0,Research & Development,0,Master,Life Sciences,2.0,Medium,1,0,Married,3640.0,frequent,High,Research Scientist,0,11,Male,1.0,4,Better,Yes,Very High,1,80,High
+108,Y,54,High,2.0,6.0,Research & Development,0,Bachelor,Medical,2.0,High,4,0,Single,5796.0,rare,High,Healthcare Representative,7,21,Female,0.0,4,Better,No,Medium,19,80,Very High
+109,Y,33,Medium,2.0,6.0,Research & Development,8,Master,Technical Degree,4.0,High,1,0,Single,13407.0,no travel,High,Research Scientist,7,15,Male,0.0,2,Better,No,Medium,11,80,Medium
+110,Y,42,High,2.0,1.0,Sales,1,Bachelor,Other,23.0,Low,3,0,Divorced,8832.0,no travel,High,Sales Executive,0,17,Male,1.0,1,Better,No,Low,18,80,High
+111,Y,29,High,6.0,0.0,Research & Development,0,Secondary,Medical,1.0,Medium,1,0,Single,4462.0,frequent,High,Laboratory Technician,0,11,Male,0.0,1,Good,No,Low,7,80,High
+112,Y,46,Medium,3.0,2.0,Human Resources,2,Master,Life Sciences,1.0,Medium,2,0,Single,20102.0,rare,High,Human Resources,2,11,Female,0.0,0,Best,No,High,9,80,Low
+113,Y,32,Very High,,4.0,Sales,4,Secondary,Medical,8.0,High,2,0,Divorced,15179.0,rare,High,Sales Executive,2,11,Female,1.0,1,Better,Yes,Very High,7,80,High
+114,Y,39,High,1.0,18.0,Research & Development,8,Bachelor,Medical,7.0,Medium,2,0,Divorced,13727.0,frequent,High,Research Scientist,12,18,Female,1.0,2,Better,Yes,Medium,18,80,Very High
+115,Y,50,Very High,2.0,2.0,Sales,2,Primary,Marketing,1.0,Very High,2,1,Married,14077.0,rare,High,Sales Executive,2,12,Male,0.0,2,Better,No,Medium,11,80,Medium
+116,Y,46,High,2.0,4.0,Research & Development,4,Bachelor,Medical,20.0,Low,1,0,Single,2102.0,no travel,High,Laboratory Technician,2,15,Male,0.0,4,Better,No,High,8,80,Low
+117,Y,41,Very High,0.0,7.0,Sales,8,Doctorate,Life Sciences,1.0,Very High,3,0,Single,2433.0,rare,High,Sales Executive,7,21,Male,0.0,2,Better,No,High,8,80,Low
+118,Y,50,Medium,,2.0,Research & Development,2,Doctorate,Medical,3.0,Medium,4,1,Married,4642.0,frequent,Very High,Manager,2,31,Male,1.0,2,Better,No,Very High,21,80,High
+119,Y,48,High,2.0,9.0,Research & Development,6,Bachelor,Medical,1.0,Medium,3,6,Married,2855.0,frequent,High,Healthcare Representative,10,14,Male,1.0,4,Good,Yes,Low,19,80,High
+120,Y,44,Medium,1.0,,Research & Development,2,Master,Life Sciences,1.0,High,2,1,Married,4726.0,rare,High,Healthcare Representative,2,14,Female,2.0,3,Better,No,Very High,9,80,High
+121,Y,22,Low,1.0,1.0,Research & Development,0,Primary,Life Sciences,6.0,High,1,0,Single,19519.0,rare,Very High,Research Scientist,0,28,Male,0.0,1,Better,Yes,Medium,1,80,Very High
+122,Y,34,Low,6.0,4.0,Research & Development,3,Primary,Medical,8.0,Low,1,0,Divorced,5443.0,rare,High,Laboratory Technician,3,14,Male,3.0,1,Better,No,Very High,7,80,Low
+123,Y,27,Low,1.0,4.0,Sales,4,Bachelor,Life Sciences,1.0,High,2,0,Single,4380.0,rare,High,Sales Executive,4,11,Male,0.0,2,Better,Yes,High,4,80,Very High
+124,Y,58,High,5.0,17.0,Sales,9,Master,Marketing,10.0,Very High,4,2,Single,7310.0,rare,High,Sales Executive,7,19,Male,0.0,1,Good,Yes,High,22,80,Low
+125,Y,56,High,2.0,4.0,Research & Development,2,Master,Medical,20.0,Very High,3,0,Married,3085.0,rare,High,Healthcare Representative,3,17,Male,0.0,1,Better,No,Very High,10,80,Medium
+126,Y,29,Very High,1.0,6.0,Sales,8,Master,Life Sciences,8.0,High,2,0,Single,15641.0,rare,High,Sales Executive,5,18,Male,0.0,0,Better,No,Very High,6,80,Medium
+127,Y,26,Very High,1.0,7.0,Human Resources,8,Primary,Life Sciences,21.0,High,1,3,Married,7048.0,rare,Very High,Human Resources,7,28,Female,1.0,2,Better,No,High,7,80,High
+128,Y,48,Very High,8.0,2.0,Research & Development,2,Master,Medical,1.0,High,5,1,Divorced,16145.0,rare,High,Research Director,2,19,Male,,0,Better,No,Very High,21,80,Very High
+129,Y,38,Very High,3.0,5.0,Research & Development,2,Bachelor,Technical Degree,1.0,High,3,0,Single,17890.0,rare,High,Manufacturing Director,5,19,Female,0.0,2,Best,No,Very High,11,80,Medium
+130,Y,34,Very High,0.0,2.0,Sales,2,Primary,Life Sciences,7.0,Medium,1,1,Single,16139.0,no travel,High,Sales Representative,2,22,Female,0.0,1,Good,No,Very High,3,80,Medium
+131,Y,36,Very High,0.0,4.0,Sales,4,Master,Medical,15.0,High,2,0,Married,12173.0,rare,High,Sales Executive,3,18,Male,1.0,1,Bad,No,Low,5,80,Medium
+132,Y,45,Medium,7.0,4.0,Sales,3,Bachelor,Marketing,8.0,Low,2,0,Single,7464.0,rare,High,Sales Executive,3,14,Female,0.0,1,Good,No,High,6,80,Low
+133,Y,30,Low,0.0,4.0,Research & Development,2,Bachelor,Life Sciences,1.0,High,2,0,Married,5094.0,rare,High,Healthcare Representative,3,12,Male,1.0,4,Good,No,Low,5,80,Low
+134,Y,36,Very High,1.0,5.0,Research & Development,1,Primary,Medical,23.0,Medium,1,0,Single,13536.0,rare,High,Research Scientist,5,11,Female,0.0,2,Good,No,Low,5,80,High
+135,Y,35,High,1.0,4.0,Research & Development,3,Master,Life Sciences,13.0,Medium,1,0,Single,6605.0,frequent,High,Research Scientist,2,18,Female,0.0,2,Better,No,Very High,5,80,High
+136,Y,25,Very High,1.0,1.0,Sales,0,Primary,Life Sciences,20.0,Low,1,0,Single,6412.0,frequent,High,Sales Representative,0,15,Male,0.0,3,Better,Yes,Very High,1,80,High
+137,Y,42,Very High,0.0,18.0,Sales,12,Master,Life Sciences,1.0,High,5,0,,10029.0,rare,High,Manager,16,15,Female,0.0,1,Better,No,High,19,80,High
+138,Y,47,Very High,2.0,2.0,Research & Development,2,Secondary,Life Sciences,8.0,High,1,0,Married,7584.0,rare,Very High,Research Scientist,2,25,Male,2.0,2,Good,No,Very High,7,80,Low
+139,Y,37,Low,0.0,1.0,Research & Development,0,Bachelor,Medical,8.0,Medium,1,0,,16386.0,rare,High,Research Scientist,0,19,Male,1.0,0,Good,Yes,High,2,80,Very High
+140,Y,32,High,1.0,2.0,Research & Development,2,Bachelor,Medical,12.0,High,1,1,Married,5100.0,frequent,High,Laboratory Technician,2,12,Male,1.0,4,Good,No,High,2,80,High
+141,Y,42,High,1.0,4.0,Sales,2,Secondary,Life Sciences,11.0,High,2,0,Married,8751.0,rare,High,Sales Executive,4,17,Female,1.0,1,Better,No,Low,4,80,Very High
+142,Y,56,Medium,3.0,8.0,Research & Development,9,Bachelor,Medical,1.0,Very High,4,5,Single,14925.0,rare,High,Research Director,8,12,Male,0.0,1,Good,No,Medium,32,80,Very High
+143,Y,22,Low,1.0,2.0,Research & Development,2,Primary,Medical,15.0,High,1,1,Married,9281.0,rare,Very High,Research Scientist,2,29,Male,2.0,4,Better,No,Very High,2,80,High
+144,Y,34,Medium,,1.0,Sales,0,Bachelor,Marketing,4.0,High,1,0,Single,7218.0,rare,High,Sales Representative,0,14,Female,0.0,1,Better,Yes,High,1,80,Very High
+145,Y,30,Low,2.0,6.0,Research & Development,8,Bachelor,Technical Degree,6.0,High,1,4,Divorced,13125.0,rare,High,Laboratory Technician,7,14,Female,2.0,1,Better,Yes,High,9,80,Medium
+146,Y,35,Low,1.0,12.0,Sales,1,Bachelor,Marketing,1.0,High,3,1,Single,5490.0,rare,Very High,Sales Executive,8,25,Male,0.0,2,Good,No,Very High,13,80,Low
+147,Y,29,Very High,1.0,9.0,Research & Development,9,Secondary,Medical,14.0,High,2,0,Divorced,10402.0,rare,High,Laboratory Technician,0,12,Male,1.0,1,Better,No,Low,9,80,High
+148,Y,37,Very High,2.0,3.0,Sales,2,Master,Life Sciences,1.0,High,1,0,Single,12918.0,rare,Very High,Sales Representative,2,25,Male,0.0,2,Good,Yes,Very High,6,80,High
+149,Y,19,Very High,1.0,1.0,Research & Development,0,Primary,Medical,2.0,High,1,0,Single,12266.0,rare,High,Laboratory Technician,0,15,Female,0.0,2,Better,No,Medium,1,80,Medium
+150,Y,48,High,1.0,21.0,Sales,8,Secondary,Marketing,1.0,High,3,10,,2126.0,rare,Very High,Sales Executive,14,31,Female,3.0,1,Better,No,Low,22,80,Medium
+151,Y,26,Medium,1.0,7.0,Research & Development,2,Secondary,Life Sciences,3.0,High,1,1,Single,7815.0,rare,Very High,Research Scientist,5,24,Male,0.0,1,Good,Yes,Very High,7,80,High
+152,Y,61,Very High,6.0,28.0,Research & Development,9,Master,Life Sciences,1.0,High,5,8,Single,19279.0,rare,High,Research Director,16,12,Male,0.0,1,Better,Yes,Medium,36,80,Very High
+153,Y,26,Low,1.0,5.0,Research & Development,4,Bachelor,Life Sciences,1.0,High,2,0,Divorced,20009.0,frequent,Very High,Manufacturing Director,5,24,Female,1.0,4,Bad,No,Medium,5,80,High
+154,Y,46,Very High,1.0,,Research & Development,1,Secondary,Life Sciences,8.0,High,1,4,Married,6026.0,rare,High,Research Scientist,7,14,Male,0.0,0,Better,Yes,Low,7,80,Medium
+155,Y,46,Medium,1.0,18.0,Research & Development,18,Master,Other,24.0,High,2,8,Single,6197.0,rare,Very High,Research Scientist,12,31,Male,0.0,2,Better,No,Very High,18,80,Very High
+156,Y,29,Very High,2.0,7.0,Research & Development,8,Bachelor,Other,8.0,High,2,0,,6317.0,rare,High,Research Scientist,7,14,Female,0.0,3,Best,No,High,9,80,High
+157,Y,54,High,,12.0,Research & Development,9,Master,Medical,1.0,Medium,3,8,Single,19304.0,frequent,Very High,Healthcare Representative,13,24,Female,0.0,0,Good,No,Low,21,80,Low
+158,Y,32,High,1.0,1.0,Research & Development,0,Primary,Medical,1.0,Low,1,0,Divorced,13307.0,rare,High,Laboratory Technician,0,11,Female,3.0,3,Better,Yes,Very High,1,80,Very High
+159,Y,37,High,1.0,,Research & Development,3,Bachelor,Life Sciences,8.0,Medium,2,0,Single,17024.0,frequent,High,Manufacturing Director,5,14,Male,0.0,2,Better,No,Medium,5,80,Medium
+160,Y,29,Medium,1.0,2.0,Research & Development,2,Bachelor,Life Sciences,1.0,Medium,1,1,Married,10901.0,frequent,High,Laboratory Technician,2,12,Male,1.0,1,Better,Yes,Very High,2,80,Very High
+161,Y,26,Low,2.0,2.0,Research & Development,0,Secondary,Life Sciences,1.0,Low,1,1,Divorced,4414.0,frequent,High,Laboratory Technician,2,15,Female,1.0,1,Better,No,Very High,4,80,Low
+162,Y,35,Very High,2.0,,Sales,12,Bachelor,Other,2.0,Low,2,2,Single,12112.0,rare,High,Sales Executive,10,21,Male,0.0,1,Better,No,Low,13,80,Very High
+163,Y,58,Medium,,4.0,Research & Development,4,Master,Technical Degree,1.0,Medium,1,0,Married,6365.0,rare,Very High,Research Scientist,2,24,Male,1.0,1,Best,No,Very High,17,80,Medium
+164,Y,58,High,0.0,32.0,Research & Development,14,Bachelor,Medical,1.0,High,5,2,Single,14325.0,rare,High,Manager,11,15,Male,0.0,1,Better,Yes,Low,34,80,Very High
+165,Y,32,Very High,0.0,4.0,Research & Development,4,Master,Medical,1.0,Low,2,0,Married,3755.0,no travel,High,Manufacturing Director,4,12,Male,1.0,1,Better,No,High,5,80,High
+166,Y,41,Low,1.0,,Research & Development,10,Master,Technical Degree,1.0,Medium,2,7,Single,15806.0,rare,High,Healthcare Representative,7,11,Female,0.0,3,Better,No,High,18,80,Very High
+167,Y,39,High,1.0,9.0,Sales,10,Secondary,Life Sciences,8.0,High,2,0,Married,,rare,High,Sales Executive,7,11,Female,1.0,0,Better,No,Very High,9,80,Low
+168,Y,25,Medium,1.0,4.0,Sales,3,Secondary,Life Sciences,3.0,Medium,2,0,Single,9353.0,rare,High,Sales Executive,4,11,Female,0.0,2,Better,Yes,Very High,4,80,Medium
+169,Y,25,High,2.0,3.0,Research & Development,2,Primary,Medical,15.0,High,1,0,Married,,rare,High,Laboratory Technician,2,11,Male,3.0,4,Good,No,Very High,6,80,Very High
+170,Y,57,Very High,2.0,5.0,Sales,6,Bachelor,Marketing,2.0,High,2,0,Married,12926.0,rare,High,Sales Executive,2,15,Female,,3,Better,No,Low,14,80,Very High
+171,Y,34,Very High,4.0,8.0,Research & Development,8,Bachelor,Technical Degree,3.0,High,2,0,Divorced,5071.0,no travel,High,Research Scientist,8,17,Male,2.0,1,Good,No,Medium,10,80,Very High
+172,Y,64,Very High,3.0,16.0,Sales,12,Bachelor,Marketing,23.0,Medium,3,8,Married,2640.0,frequent,High,Sales Executive,14,22,Female,0.0,4,Best,No,Low,20,80,High
+173,Y,25,Medium,1.0,5.0,Sales,4,Primary,Medical,22.0,High,2,0,Single,17134.0,rare,Very High,Sales Executive,5,28,Female,0.0,4,Good,No,Very High,5,80,High
+174,Y,33,Medium,1.0,8.0,Research & Development,9,Bachelor,Medical,1.0,High,2,4,Married,8472.0,rare,Very High,Manufacturing Director,8,26,Male,1.0,2,Better,Yes,Very High,8,80,Low
+175,Y,26,High,1.0,1.0,Research & Development,0,Bachelor,Medical,17.0,High,1,0,Divorced,14641.0,rare,Very High,Laboratory Technician,1,24,Male,1.0,0,Good,No,High,1,80,Low
+176,Y,46,High,3.0,9.0,Human Resources,2,Doctorate,Human Resources,1.0,High,2,0,Married,8200.0,frequent,High,Human Resources,7,11,Male,0.0,2,Better,Yes,Very High,13,80,Low
+177,Y,32,High,1.0,9.0,Sales,9,Master,Marketing,22.0,High,2,0,Married,15876.0,frequent,High,Sales Executive,7,11,Male,0.0,3,Better,Yes,Very High,9,80,Low
+178,Y,45,High,2.0,2.0,Sales,2,Bachelor,Life Sciences,12.0,Medium,2,1,Married,17770.0,frequent,High,Sales Executive,2,21,Male,1.0,4,Better,No,Very High,6,80,Very High
+179,Y,55,Very High,1.0,28.0,Sales,10,Primary,Marketing,1.0,Low,5,4,Married,19341.0,rare,High,Manager,15,17,Female,1.0,2,Better,No,Very High,30,80,Low
+180,Y,44,High,0.0,8.0,Research & Development,9,Bachelor,Medical,1.0,Medium,1,4,Divorced,6388.0,rare,High,Laboratory Technician,6,11,Female,1.0,3,Better,Yes,Low,9,80,Very High
+181,Y,56,Medium,0.0,29.0,Research & Development,10,Doctorate,Technical Degree,1.0,Medium,3,0,Married,11188.0,rare,High,Manufacturing Director,7,18,Female,1.0,3,Better,No,Very High,31,80,High
+182,Y,42,Very High,3.0,1.0,Sales,0,Bachelor,Life Sciences,20.0,Very High,4,0,Single,12969.0,no travel,High,Sales Executive,0,18,Female,0.0,1,Good,Yes,Medium,20,80,Medium
+183,Y,42,Very High,,,Research & Development,3,Bachelor,Life Sciences,13.0,High,3,2,Single,15058.0,rare,High,Manufacturing Director,2,17,Female,0.0,1,Good,Yes,Very High,16,80,High
+184,Y,42,Low,2.0,17.0,Research & Development,17,Master,Life Sciences,1.0,High,4,7,Divorced,14363.0,rare,High,Manager,7,11,Male,1.0,2,Better,No,Low,20,80,Low
+185,Y,24,High,1.0,1.0,Sales,0,Secondary,Life Sciences,10.0,High,1,0,Married,5731.0,no travel,High,Sales Representative,0,14,Female,1.0,1,Better,No,Medium,1,80,Very High
+186,Y,48,Very High,7.0,12.0,Sales,1,Bachelor,Life Sciences,2.0,High,4,3,Married,8837.0,rare,High,Manager,13,12,Female,1.0,1,Best,No,Medium,21,80,High
+187,Y,52,High,,13.0,Research & Development,12,Master,Medical,16.0,High,2,3,Married,4603.0,rare,High,Manufacturing Director,12,15,Female,0.0,1,Good,No,Low,14,80,High
+188,Y,36,Low,1.0,9.0,Research & Development,9,Master,Life Sciences,21.0,High,1,4,Divorced,12636.0,frequent,High,Research Scientist,2,22,Female,1.0,2,Good,Yes,Medium,9,80,Very High
+189,Y,31,Very High,0.0,8.0,Research & Development,8,Master,Technical Degree,1.0,Medium,1,0,Single,19763.0,frequent,High,Research Scientist,7,18,Female,0.0,1,Better,No,Low,9,80,Very High
+190,Y,35,High,1.0,,Research & Development,14,Secondary,Medical,4.0,Medium,2,2,Married,9223.0,rare,High,Laboratory Technician,11,15,Male,1.0,2,Best,No,Very High,13,80,Medium
+191,Y,30,High,1.0,4.0,Research & Development,1,Primary,Medical,15.0,Medium,1,0,Single,11437.0,rare,High,Research Scientist,3,14,Male,0.0,2,Good,Yes,Very High,3,80,High
+192,Y,30,Low,1.0,3.0,Research & Development,2,Bachelor,Life Sciences,1.0,High,1,0,Divorced,4639.0,rare,High,Research Scientist,2,17,Female,3.0,4,Better,No,Very High,3,80,Low
+193,Y,43,Low,2.0,4.0,Research & Development,3,Doctorate,Medical,4.0,Very High,1,0,Married,4612.0,rare,High,Research Scientist,2,12,Male,0.0,4,Good,Yes,High,6,80,Medium
+194,Y,32,Very High,3.0,6.0,Sales,8,Master,Medical,5.0,Very High,2,3,Divorced,5090.0,rare,Very High,Sales Executive,7,26,Male,2.0,3,Best,No,Very High,12,80,Low
+195,Y,61,Very High,2.0,4.0,Research & Development,2,Master,Life Sciences,1.0,Low,2,0,Divorced,12958.0,no travel,High,Healthcare Representative,3,14,Male,1.0,1,Better,Yes,High,11,80,Very High
+196,Y,57,High,7.0,9.0,Research & Development,9,Bachelor,Technical Degree,14.0,High,3,0,Married,10698.0,rare,High,Manufacturing Director,7,11,Female,1.0,1,Better,No,High,20,80,High
+197,Y,26,Medium,1.0,7.0,Research & Development,3,Secondary,Medical,1.0,Very High,2,0,Married,2995.0,rare,High,Manufacturing Director,7,12,Male,0.0,1,Better,No,Very High,7,80,Very High
+198,Y,24,Medium,1.0,4.0,Research & Development,2,Primary,Medical,14.0,Medium,2,2,Divorced,18085.0,rare,High,Manufacturing Director,2,17,Female,2.0,4,Better,No,High,4,80,Very High
+199,Y,50,Very High,7.0,7.0,Research & Development,6,Master,Other,12.0,High,1,4,Married,12576.0,rare,High,Research Scientist,2,12,Female,1.0,2,Good,No,Low,9,80,High
+200,Y,30,Very High,1.0,1.0,Human Resources,0,Primary,Medical,5.0,Medium,1,0,Married,11781.0,rare,High,Human Resources,0,11,Male,0.0,2,Better,No,Medium,1,80,Very High
+201,Y,27,High,0.0,,Research & Development,2,Secondary,Life Sciences,4.0,High,1,0,Single,14970.0,frequent,High,Laboratory Technician,4,15,Female,0.0,2,Good,Yes,Very High,5,80,Very High
+202,Y,31,Very High,1.0,9.0,Sales,8,Bachelor,Life Sciences,1.0,Medium,2,4,Married,4439.0,rare,High,Sales Executive,8,11,Male,1.0,3,Better,No,Low,9,80,Medium
+203,Y,44,Very High,7.0,1.0,Research & Development,1,Secondary,Other,8.0,Medium,5,0,Single,19715.0,rare,Very High,Manager,0,26,Male,0.0,1,Better,No,Very High,22,80,Very High
+204,Y,33,Very High,0.0,3.0,Research & Development,2,Bachelor,Life Sciences,1.0,Medium,1,0,Single,7523.0,rare,High,Laboratory Technician,2,15,Male,0.0,1,Bad,Yes,High,3,80,Very High
+205,Y,43,High,2.0,16.0,Research & Development,18,Bachelor,Medical,5.0,High,1,1,Single,2839.0,rare,High,Laboratory Technician,14,14,Male,0.0,2,Better,Yes,Low,18,80,Very High
+206,Y,44,High,,11.0,Research & Development,9,Secondary,Medical,8.0,High,1,3,Single,12524.0,frequent,High,Laboratory Technician,10,14,Female,0.0,2,Better,No,Very High,11,80,Low
+207,Y,36,High,0.0,4.0,Research & Development,3,Bachelor,Life Sciences,18.0,Low,1,2,Single,14533.0,rare,High,Laboratory Technician,4,17,Male,0.0,1,Better,No,High,5,80,Very High
+208,Y,47,Very High,2.0,20.0,Research & Development,4,Primary,Life Sciences,1.0,Medium,3,9,Married,3039.0,no travel,Very High,Healthcare Representative,16,28,Male,1.0,2,Good,No,High,23,80,High
+209,Y,29,Medium,1.0,4.0,Sales,4,Bachelor,Medical,3.0,High,2,0,Married,7009.0,no travel,High,Sales Executive,4,17,Male,0.0,2,Best,No,High,4,80,Medium
+210,Y,64,Medium,0.0,10.0,Sales,10,Master,Marketing,6.0,Very High,2,0,Divorced,8483.0,rare,High,Sales Executive,7,21,Male,1.0,2,Better,Yes,Very High,11,80,Medium
+211,Y,41,High,8.0,4.0,Research & Development,3,Bachelor,Life Sciences,8.0,High,2,0,Single,6942.0,no travel,High,Laboratory Technician,4,17,Male,0.0,1,Good,No,Medium,8,80,High
+212,Y,35,Very High,6.0,12.0,Research & Development,10,Bachelor,Medical,12.0,High,4,4,Divorced,9236.0,frequent,High,Research Director,8,15,Male,2.0,2,Good,No,Low,14,80,Medium
+213,Y,44,Medium,2.0,4.0,Research & Development,2,Master,Life Sciences,1.0,High,1,0,Divorced,15452.0,rare,High,Laboratory Technician,2,18,Female,1.0,4,Better,No,Low,7,80,Medium
+214,Y,34,High,2.0,4.0,Human Resources,3,Secondary,Human Resources,2.0,High,1,0,Divorced,17020.0,rare,High,Human Resources,3,11,Male,1.0,3,Best,Yes,Medium,6,80,Very High
+215,Y,35,High,3.0,10.0,Research & Development,10,Bachelor,Medical,15.0,High,2,3,Divorced,16936.0,frequent,High,Laboratory Technician,8,14,Female,2.0,1,Best,No,Medium,13,80,High
+216,Y,29,High,1.0,1.0,Research & Development,0,Bachelor,Medical,20.0,High,1,0,Married,5892.0,rare,High,Laboratory Technician,1,19,Male,3.0,2,Better,Yes,Medium,1,80,High
+217,Y,30,Low,1.0,5.0,Research & Development,6,Bachelor,Life Sciences,12.0,High,1,0,Single,17037.0,rare,High,Research Scientist,5,22,Male,0.0,0,Better,No,Very High,5,80,High
+218,Y,26,High,1.0,1.0,Research & Development,1,Bachelor,Life Sciences,21.0,Low,1,0,Single,8240.0,rare,High,Laboratory Technician,0,12,Male,0.0,1,Good,No,High,1,80,Low
+219,Y,34,Low,0.0,6.0,Sales,8,Secondary,Marketing,18.0,High,2,0,Married,11814.0,no travel,High,Sales Executive,7,14,Male,1.0,1,Best,No,Medium,7,80,High
+220,Y,43,Medium,2.0,16.0,Research & Development,12,Bachelor,Medical,8.0,High,5,0,Divorced,3286.0,frequent,High,Research Director,18,19,Male,1.0,1,Best,No,High,19,80,Low
+221,Y,38,High,4.0,4.0,Research & Development,4,Master,Medical,6.0,High,2,0,Married,10440.0,rare,Very High,Research Scientist,3,26,Male,1.0,1,Better,Yes,Low,14,80,Very High
+222,Y,42,Very High,7.0,1.0,Research & Development,0,Master,Medical,8.0,High,1,0,Divorced,18772.0,frequent,High,Research Scientist,1,15,Male,1.0,1,Better,Yes,Medium,3,80,Very High
+223,Y,54,High,,1.0,Research & Development,0,Master,Medical,6.0,Medium,2,0,Married,10727.0,rare,High,Manufacturing Director,0,19,Male,0.0,1,Better,No,High,9,80,Medium
+224,Y,27,High,1.0,1.0,Research & Development,0,Bachelor,Life Sciences,3.0,High,1,0,Single,13504.0,rare,High,Research Scientist,1,22,Female,0.0,1,Better,No,High,1,80,Medium
+225,Y,23,High,1.0,0.0,Research & Development,0,Bachelor,Life Sciences,5.0,Very High,1,0,Married,3075.0,rare,Very High,Laboratory Technician,0,25,,2.0,1,Better,Yes,Low,1,80,High
+226,Y,30,Very High,1.0,9.0,Research & Development,6,Primary,Medical,2.0,High,1,0,Single,12346.0,rare,High,Laboratory Technician,10,21,Male,0.0,2,Better,Yes,Low,9,80,Medium
+227,Y,50,High,7.0,7.0,Sales,8,Master,Life Sciences,13.0,High,2,4,Divorced,10516.0,rare,High,Sales Executive,7,15,Female,1.0,1,Better,No,High,16,80,High
+228,Y,59,High,6.0,9.0,Research & Development,1,Bachelor,Medical,8.0,High,4,0,Married,15401.0,rare,High,Healthcare Representative,7,11,Male,0.0,0,Good,No,Very High,27,80,High
+229,Y,32,Very High,1.0,9.0,Research & Development,8,Master,Medical,18.0,High,2,4,Married,15863.0,rare,High,Manufacturing Director,2,17,Male,2.0,2,Good,Yes,High,9,80,Very High
+230,Y,46,Low,3.0,2.0,Human Resources,2,Bachelor,Life Sciences,1.0,High,1,1,Divorced,3600.0,rare,High,Human Resources,2,21,Female,3.0,1,Better,Yes,Very High,7,80,High
+231,Y,33,Medium,7.0,1.0,Research & Development,0,Master,Life Sciences,4.0,Medium,2,0,Single,7935.0,rare,Very High,Manufacturing Director,0,29,Male,0.0,0,Better,No,Very High,7,80,Very High
+232,Y,55,Medium,7.0,4.0,Research & Development,4,Master,Life Sciences,8.0,High,2,0,Married,16418.0,rare,Very High,Laboratory Technician,2,24,Female,1.0,2,Better,No,High,8,80,Very High
+233,Y,57,High,2.0,8.0,Human Resources,1,Master,Medical,15.0,High,3,4,Married,5460.0,rare,High,Human Resources,7,17,Male,1.0,0,Best,No,Medium,14,80,High
+234,Y,30,Low,3.0,7.0,Research & Development,1,Bachelor,Medical,23.0,High,2,0,Married,19125.0,rare,High,Healthcare Representative,7,12,Female,1.0,2,Good,No,High,10,80,Medium
+235,Y,27,Very High,1.0,6.0,Sales,8,Bachelor,Life Sciences,16.0,High,2,0,Single,9952.0,frequent,High,Sales Executive,7,15,Female,0.0,1,Better,No,High,6,80,Very High
+236,Y,57,Medium,8.0,4.0,Research & Development,4,Master,Medical,15.0,High,2,0,Divorced,17035.0,rare,High,Manufacturing Director,3,11,Female,2.0,3,Better,Yes,Low,8,80,Very High
+237,Y,45,Medium,1.0,9.0,Research & Development,10,Bachelor,Life Sciences,8.0,High,3,0,Married,12825.0,rare,High,Healthcare Representative,10,19,Male,1.0,0,Better,No,High,9,80,Low
+238,Y,26,High,1.0,4.0,Research & Development,3,Bachelor,Other,5.0,Medium,1,2,Married,,rare,High,Research Scientist,4,22,Female,,2,Good,No,Medium,4,80,High
+239,Y,21,Very High,,1.0,Sales,0,Bachelor,Life Sciences,9.0,Very High,1,0,Single,19033.0,rare,High,Sales Representative,0,17,Female,0.0,0,Better,No,Medium,1,80,High
+240,Y,52,High,3.0,23.0,Research & Development,8,Secondary,Other,7.0,High,3,0,Married,16894.0,rare,High,Laboratory Technician,10,11,Female,1.0,2,Good,No,Medium,26,80,Low
+241,Y,33,Medium,1.0,9.0,Research & Development,10,Bachelor,Life Sciences,1.0,High,2,0,Married,5908.0,rare,High,Research Scientist,4,19,Male,2.0,2,Better,No,Medium,9,80,Medium
+242,Y,47,Very High,1.0,1.0,Research & Development,0,Bachelor,Life Sciences,1.0,Medium,1,0,Single,5042.0,rare,High,Research Scientist,0,15,Female,0.0,2,Better,No,High,1,80,Medium
+243,Y,34,Very High,1.0,9.0,Sales,0,Bachelor,Life Sciences,14.0,High,4,4,Single,15451.0,no travel,High,Manager,8,11,Male,0.0,1,Better,No,High,9,80,Very High
+244,Y,32,Low,1.0,6.0,Research & Development,8,Bachelor,Life Sciences,2.0,High,1,4,,3592.0,frequent,High,Research Scientist,2,12,Female,0.0,1,Bad,No,High,6,80,Very High
+245,Y,53,High,2.0,6.0,Sales,6,Master,Medical,1.0,High,5,0,Divorced,18086.0,rare,High,Manager,0,11,Female,1.0,2,Good,No,Very High,29,80,Very High
+246,Y,57,High,2.0,4.0,Research & Development,3,Secondary,Life Sciences,8.0,High,2,1,Married,16892.0,rare,High,Research Scientist,3,11,Female,2.0,4,Good,No,High,8,80,Low
+247,Y,22,High,1.0,1.0,Research & Development,0,Primary,Medical,7.0,High,1,0,Married,12191.0,rare,High,Laboratory Technician,0,19,Female,0.0,4,Better,Yes,Low,1,80,High
+248,Y,56,High,1.0,4.0,Research & Development,3,Secondary,Medical,10.0,Very High,2,0,Divorced,19634.0,rare,High,Manufacturing Director,2,11,Female,2.0,2,Better,No,Low,4,80,Very High
+249,Y,31,Low,0.0,3.0,Sales,2,Primary,Marketing,6.0,High,1,0,Single,13933.0,rare,High,Sales Representative,2,15,Male,0.0,2,Better,No,Medium,3,80,Very High
+250,Y,20,Medium,1.0,2.0,Sales,2,Bachelor,Marketing,8.0,High,1,0,Single,13067.0,frequent,High,Sales Representative,2,15,Female,0.0,2,Better,Yes,Very High,2,80,Very High
+251,Y,18,High,1.0,,Research & Development,0,Bachelor,Life Sciences,1.0,High,1,0,Single,14591.0,no travel,High,Laboratory Technician,0,17,Female,0.0,4,Best,No,Very High,0,80,Very High
+252,Y,47,Very High,2.0,4.0,Research & Development,2,Master,Medical,1.0,High,1,0,Divorced,8565.0,rare,High,Laboratory Technician,3,15,Female,2.0,1,Better,No,Very High,7,80,Very High
+253,Y,41,High,1.0,19.0,Research & Development,6,Primary,Life Sciences,1.0,High,5,0,Divorced,6537.0,frequent,High,Manager,8,15,Male,1.0,2,Better,Yes,High,19,80,Medium
+254,Y,35,Very High,1.0,9.0,Sales,8,Master,Life Sciences,17.0,Very High,2,3,Single,15039.0,rare,High,Sales Executive,7,12,Male,0.0,2,Better,No,Very High,9,80,Very High
+255,Y,48,Medium,3.0,9.0,Sales,3,Bachelor,Life Sciences,1.0,High,3,0,Divorced,4637.0,rare,High,Sales Executive,6,12,Male,1.0,4,Good,Yes,Very High,12,80,High
+256,Y,39,Medium,8.0,1.0,Research & Development,0,Master,Life Sciences,1.0,High,2,0,Married,5845.0,rare,High,Manufacturing Director,0,15,Male,0.0,2,Better,No,High,13,80,Very High
+257,Y,24,Medium,1.0,5.0,Research & Development,4,Bachelor,Medical,19.0,Very High,1,0,Married,16279.0,rare,High,Research Scientist,5,11,Male,2.0,2,Better,Yes,Very High,5,80,Medium
+258,Y,34,High,1.0,8.0,Research & Development,9,Secondary,,6.0,High,2,1,Divorced,13701.0,frequent,Very High,Healthcare Representative,7,24,Male,3.0,1,Better,No,High,8,80,Very High
+259,Y,37,Medium,5.0,6.0,Research & Development,8,Bachelor,Medical,23.0,High,2,4,Married,12611.0,rare,High,Healthcare Representative,7,14,Male,2.0,2,Good,No,High,15,80,High
+260,Y,31,Low,1.0,9.0,Sales,4,Bachelor,Marketing,8.0,Medium,2,0,Married,2539.0,rare,High,Sales Executive,3,21,Male,1.0,2,Better,No,High,9,80,High
+261,Y,45,High,3.0,1.0,Research & Development,0,Bachelor,Life Sciences,7.0,High,2,0,Divorced,17865.0,rare,Very High,Manufacturing Director,0,25,Female,1.0,1,Best,No,Medium,3,80,Low
+262,Y,35,Medium,1.0,7.0,Research & Development,8,Bachelor,Medical,8.0,Medium,3,4,Single,13393.0,rare,High,Healthcare Representative,7,15,Female,0.0,2,Best,No,Medium,8,80,Very High
+263,Y,32,Medium,1.0,9.0,Research & Development,8,Bachelor,,1.0,Low,2,5,Married,4764.0,frequent,Very High,Research Scientist,8,25,Male,,4,Better,No,Low,9,80,Very High
+264,Y,29,Very High,1.0,4.0,Research & Development,2,Secondary,Life Sciences,12.0,High,1,1,Divorced,16898.0,rare,High,Laboratory Technician,2,18,Male,1.0,4,Good,No,High,3,80,Low
+265,Y,49,Very High,8.0,20.0,Sales,14,Bachelor,Medical,2.0,High,4,7,Divorced,7998.0,frequent,High,Sales Executive,2,12,Female,2.0,1,Good,Yes,High,25,80,Very High
+266,Y,53,Low,0.0,16.0,Sales,14,Bachelor,Life Sciences,1.0,High,2,0,,18668.0,no travel,High,Sales Executive,7,12,Female,1.0,2,Better,No,High,17,80,Very High
+267,Y,49,Very High,1.0,9.0,Research & Development,10,Master,Life Sciences,24.0,High,3,6,Married,8030.0,no travel,High,Manager,7,12,Male,1.0,1,Good,Yes,Medium,9,80,Low
+268,Y,42,High,2.0,4.0,Sales,0,Master,Marketing,21.0,Medium,3,0,Single,13088.0,rare,High,Sales Executive,4,12,Male,0.0,1,Better,Yes,Medium,8,80,Very High
+269,Y,42,Very High,1.0,7.0,Research & Development,8,Secondary,Medical,1.0,Very High,2,2,Married,7785.0,frequent,Very High,Healthcare Representative,7,29,Female,1.0,1,Better,No,Medium,7,80,High
+270,Y,34,High,0.0,3.0,Sales,2,Bachelor,Life Sciences,6.0,High,2,0,Married,10304.0,frequent,High,Sales Executive,2,19,Female,1.0,2,Better,No,Medium,3,80,Very High
+271,Y,44,Very High,4.0,2.0,Research & Development,2,Primary,Medical,1.0,High,1,1,Single,7158.0,frequent,High,Research Scientist,1,15,Male,0.0,1,Better,Yes,Very High,7,80,Medium
+272,Y,29,Very High,1.0,1.0,Sales,0,Bachelor,Medical,2.0,High,1,0,Married,3255.0,rare,High,Sales Representative,0,22,Female,1.0,2,Better,No,Medium,1,80,Medium
+273,Y,32,Low,8.0,2.0,Research & Development,2,Master,Medical,2.0,High,3,1,Divorced,10393.0,frequent,High,Research Director,2,12,Male,1.0,2,Better,No,High,8,80,Medium
+274,Y,34,High,2.0,12.0,Research & Development,8,Bachelor,Life Sciences,5.0,High,2,2,Divorced,4448.0,frequent,Very High,Healthcare Representative,12,28,Male,1.0,1,Bad,No,Very High,13,80,High
+275,Y,38,High,1.0,4.0,Research & Development,2,Bachelor,Medical,8.0,High,1,0,Married,8860.0,frequent,High,Research Scientist,2,12,Male,3.0,2,Good,Yes,Very High,3,80,Medium
+276,Y,23,Very High,1.0,1.0,Research & Development,1,Secondary,Life Sciences,1.0,High,1,0,Married,12846.0,rare,Very High,Research Scientist,0,26,Male,1.0,1,Better,No,High,1,80,Very High
+277,Y,29,High,2.0,0.0,Research & Development,0,Master,Life Sciences,1.0,High,1,0,Single,11418.0,rare,High,Laboratory Technician,0,11,Male,0.0,4,Bad,No,High,4,80,Low
+278,Y,38,Very High,3.0,,Human Resources,2,Master,Human Resources,5.0,High,1,0,Divorced,17745.0,rare,Very High,Human Resources,2,26,Male,0.0,2,Better,Yes,Low,6,80,High
+279,Y,48,High,2.0,5.0,Research & Development,4,Master,Technical Degree,1.0,High,2,0,Divorced,13232.0,rare,High,Manufacturing Director,3,11,Male,1.0,2,Good,No,Very High,11,80,Very High
+280,Y,43,Low,7.0,5.0,Sales,6,Secondary,Life Sciences,1.0,High,2,0,Single,14718.0,rare,High,Sales Executive,4,11,Female,0.0,0,Bad,Yes,Very High,7,80,Medium
+281,Y,37,Very High,5.0,3.0,Research & Development,1,Secondary,Medical,5.0,High,2,0,Divorced,2621.0,rare,Very High,Manufacturing Director,2,24,Male,2.0,0,Better,No,Medium,6,80,Medium
+282,Y,31,High,1.0,1.0,Research & Development,0,Bachelor,Medical,2.0,High,1,0,Divorced,17022.0,frequent,Very High,Research Scientist,0,24,Female,1.0,1,Better,No,High,1,80,High
+283,Y,47,Medium,2.0,6.0,Research & Development,8,Bachelor,Medical,16.0,Low,3,0,Divorced,14996.0,rare,High,Healthcare Representative,7,21,Male,1.0,1,Better,Yes,Low,22,80,Medium
+284,Y,31,Very High,0.0,4.0,Research & Development,2,Primary,Medical,1.0,Medium,1,0,Single,8679.0,rare,High,Laboratory Technician,3,14,Male,0.0,2,Better,No,Very High,5,80,Medium
+285,Y,53,Very High,1.0,28.0,Research & Development,10,Doctorate,Medical,18.0,Low,4,8,Single,18327.0,frequent,High,Research Director,6,14,Male,0.0,1,Better,Yes,Very High,29,80,High
+286,Y,29,Low,1.0,7.0,Sales,6,Master,Marketing,1.0,High,2,4,Married,3259.0,rare,Very High,Sales Executive,7,24,Female,0.0,1,Better,Yes,Medium,7,80,Medium
+287,Y,36,Low,0.0,7.0,Sales,8,Bachelor,Technical Degree,3.0,High,3,2,Single,8077.0,rare,Very High,Sales Executive,7,26,Male,0.0,1,Better,Yes,Low,8,80,Very High
+288,Y,38,Low,1.0,9.0,Research & Development,8,Bachelor,Medical,10.0,High,2,2,Married,2775.0,rare,High,Research Scientist,8,19,Male,0.0,1,Better,No,Very High,9,80,Low
+289,Y,55,High,,4.0,Research & Development,4,Master,Other,7.0,High,1,0,Married,13181.0,rare,High,Laboratory Technician,4,14,Female,,1,Bad,No,Low,11,80,High
+290,Y,58,Low,3.0,9.0,Human Resources,4,Master,Human Resources,22.0,Very High,5,0,Married,19315.0,rare,High,Manager,10,21,Male,1.0,0,Better,Yes,Medium,32,80,High
+291,Y,36,Very High,1.0,9.0,Research & Development,2,Master,Life Sciences,15.0,High,2,0,Married,18432.0,frequent,High,Healthcare Representative,2,15,Male,2.0,1,Best,Yes,High,9,80,High
+292,Y,59,High,3.0,2.0,Research & Development,2,Bachelor,Life Sciences,7.0,High,1,1,Divorced,10695.0,rare,High,Research Scientist,2,21,Female,1.0,2,Better,Yes,Low,17,80,High
+293,Y,52,Very High,2.0,8.0,Sales,9,Bachelor,Medical,1.0,Medium,2,0,Married,10190.0,frequent,High,Sales Executive,6,15,Male,0.0,2,Good,No,Medium,15,80,Very High
+294,Y,36,High,1.0,8.0,Human Resources,8,Master,Life Sciences,22.0,High,3,0,Single,12658.0,rare,High,Human Resources,0,18,Female,0.0,1,Better,Yes,Very High,8,80,High
+295,Y,34,Low,1.0,9.0,Sales,1,Bachelor,Medical,21.0,High,2,0,Married,4136.0,frequent,High,Sales Executive,7,12,Female,1.0,2,Good,No,High,9,80,Medium
+296,Y,27,Medium,1.0,4.0,Research & Development,4,Secondary,Medical,1.0,High,1,0,Divorced,13557.0,rare,High,Laboratory Technician,2,11,Male,1.0,1,Better,No,Medium,4,80,Very High
+297,Y,58,Very High,4.0,4.0,Research & Development,2,Bachelor,Technical Degree,18.0,Medium,1,0,Divorced,17809.0,rare,High,Research Scientist,2,12,Male,1.0,0,Better,No,Medium,7,80,Low
+298,Y,30,High,5.0,0.0,Research & Development,0,Bachelor,Life Sciences,8.0,Medium,1,0,Single,8909.0,rare,Very High,Research Scientist,0,24,Female,0.0,4,Better,Yes,Low,3,80,Very High
+299,Y,25,Medium,2.0,3.0,Sales,2,Primary,Life Sciences,15.0,Very High,2,0,Married,9634.0,rare,High,Sales Executive,2,11,Male,0.0,2,Good,No,High,5,80,Low
+300,Y,24,High,1.0,5.0,Research & Development,3,Primary,Technical Degree,1.0,High,1,0,Single,13076.0,frequent,High,Research Scientist,3,14,Female,0.0,1,Better,Yes,Very High,5,80,Low
+301,Y,43,Very High,6.0,,Sales,10,Secondary,Life Sciences,8.0,High,2,0,Single,10325.0,no travel,High,Sales Executive,3,15,Male,0.0,2,Better,No,Very High,14,80,Very High
+302,Y,34,Very High,3.0,1.0,Research & Development,0,Bachelor,Medical,1.0,High,1,0,Single,5417.0,rare,High,Laboratory Technician,1,11,Male,0.0,2,Better,No,Very High,6,80,High
+303,Y,56,Very High,6.0,12.0,Sales,10,Primary,Medical,1.0,High,2,5,Single,6025.0,rare,Very High,Sales Executive,7,24,Female,0.0,1,Best,No,Low,16,80,Very High
+304,Y,38,Low,1.0,4.0,Sales,3,Secondary,Marketing,8.0,Medium,2,0,Married,6964.0,rare,High,Sales Executive,2,15,Male,2.0,1,Better,No,Medium,4,80,Medium
+305,Y,35,Very High,1.0,9.0,Sales,6,Secondary,Medical,12.0,High,2,6,Single,17676.0,rare,High,Sales Executive,8,12,Female,0.0,4,Best,No,Low,9,80,High
+306,Y,34,Medium,1.0,13.0,Research & Development,8,Master,Life Sciences,23.0,High,2,3,Married,17237.0,rare,High,Laboratory Technician,15,12,Male,1.0,2,Better,Yes,High,13,80,Medium
+307,Y,23,Low,1.0,1.0,Sales,0,Bachelor,Marketing,8.0,High,1,0,Married,20147.0,frequent,High,Sales Representative,0,22,Male,1.0,2,Good,No,Low,1,80,Very High
+308,Y,35,Very High,1.0,12.0,Research & Development,12,Master,Technical Degree,1.0,High,2,2,Single,5049.0,rare,High,Healthcare Representative,12,11,Female,0.0,1,Best,No,Very High,13,80,High
+309,Y,34,High,2.0,0.0,Sales,0,Bachelor,Life Sciences,13.0,High,3,0,Single,7902.0,rare,Very High,Sales Executive,0,24,Female,,1,Good,Yes,Low,10,80,Low
+310,Y,57,Very High,5.0,4.0,Research & Development,4,Bachelor,Medical,8.0,High,2,0,Single,18870.0,rare,High,Manufacturing Director,2,22,Female,0.0,2,Better,Yes,Low,8,80,High
+311,Y,41,Low,0.0,18.0,Sales,6,Primary,Marketing,20.0,Medium,4,6,Married,6984.0,rare,High,Sales Executive,10,11,Female,1.0,1,Good,No,Very High,19,80,Medium
+312,Y,34,Low,2.0,0.0,Research & Development,0,Doctorate,Life Sciences,7.0,High,2,0,Single,16584.0,rare,High,Healthcare Representative,0,19,Male,0.0,4,Better,Yes,High,13,80,Very High
+313,Y,44,Medium,2.0,1.0,Research & Development,0,Master,Other,1.0,Medium,2,0,Single,12974.0,rare,Very High,Healthcare Representative,0,28,Male,0.0,4,Better,No,Very High,13,80,Low
+314,Y,46,Very High,0.0,20.0,Research & Development,10,Bachelor,Medical,6.0,High,5,0,Divorced,3151.0,rare,High,Research Director,7,15,Female,1.0,3,Good,Yes,Very High,21,80,Medium
+315,Y,29,Very High,2.0,2.0,Sales,2,Secondary,Marketing,10.0,High,2,1,Single,17530.0,rare,High,Sales Executive,0,11,Female,0.0,0,Better,Yes,High,5,80,Very High
+316,Y,32,Medium,1.0,12.0,Research & Development,12,Secondary,Medical,6.0,High,2,2,Married,3592.0,rare,High,Manufacturing Director,11,12,Female,1.0,4,Bad,No,Low,12,80,Medium
+317,Y,23,Medium,1.0,3.0,Sales,2,Bachelor,Life Sciences,6.0,High,1,0,Divorced,18801.0,rare,Very High,Sales Representative,2,25,Male,,1,Better,Yes,Very High,3,80,High
+318,Y,41,Very High,2.0,6.0,Research & Development,8,Doctorate,Medical,8.0,High,2,4,Married,3359.0,rare,High,Manufacturing Director,7,14,Male,3.0,2,Better,No,Low,9,80,Medium
+319,Y,39,Low,3.0,1.0,Sales,0,Bachelor,Life Sciences,1.0,Medium,1,0,Single,8905.0,rare,High,Sales Representative,0,15,Male,0.0,2,Good,No,Low,18,80,Low
+320,Y,53,High,8.0,4.0,Research & Development,3,Secondary,Medical,1.0,High,4,0,Divorced,5377.0,rare,Very High,Research Director,4,26,Male,1.0,0,Good,No,Very High,29,80,Very High
+321,Y,35,High,1.0,13.0,Sales,8,Bachelor,Life Sciences,8.0,High,2,0,Divorced,9514.0,no travel,High,Sales Executive,15,15,Male,1.0,2,Better,Yes,High,13,80,Very High
+322,Y,38,High,3.0,3.0,Sales,0,Bachelor,Marketing,1.0,High,2,0,Married,2760.0,rare,High,Sales Executive,0,11,Male,1.0,2,Good,Yes,High,15,80,Very High
+323,Y,42,High,,16.0,Research & Development,14,Master,Medical,8.0,High,3,1,Single,10581.0,frequent,High,Research Director,7,19,Female,0.0,2,Good,No,High,18,80,Medium
+324,Y,58,Very High,1.0,29.0,Research & Development,0,Primary,Medical,7.0,Medium,4,10,Divorced,19156.0,no travel,High,Healthcare Representative,10,17,Male,1.0,2,Better,Yes,Medium,31,80,Very High
+325,Y,37,Medium,3.0,2.0,Research & Development,2,Bachelor,Life Sciences,1.0,High,1,1,Married,9191.0,rare,High,Research Scientist,2,14,Female,1.0,2,Better,No,High,5,80,Very High
+326,Y,48,Very High,2.0,11.0,Sales,10,Primary,Marketing,2.0,High,4,2,Married,11898.0,rare,High,Manager,10,12,Male,1.0,2,Better,No,High,21,80,Low
+327,Y,41,High,3.0,4.0,Research & Development,0,Bachelor,Medical,9.0,High,2,0,Married,6160.0,rare,Very High,Manufacturing Director,4,25,Male,0.0,2,Better,No,Medium,6,80,Very High
+328,Y,39,High,1.0,2.0,Research & Development,1,Secondary,Life Sciences,8.0,High,1,1,Single,5162.0,rare,High,Laboratory Technician,2,12,Female,0.0,2,Better,No,Very High,2,80,High
+329,Y,45,High,4.0,15.0,Sales,10,Bachelor,Marketing,13.0,High,4,0,Married,6197.0,rare,Very High,Manager,14,26,Female,1.0,2,Better,Yes,Very High,20,80,Very High
+330,Y,42,Very High,1.0,20.0,Research & Development,12,Master,Life Sciences,1.0,Medium,4,7,Married,10823.0,frequent,Very High,Healthcare Representative,3,26,Male,1.0,2,Good,No,Medium,20,80,High
+331,Y,38,Very High,4.0,1.0,Research & Development,0,Secondary,Life Sciences,1.0,Medium,2,0,Divorced,12083.0,no travel,High,Healthcare Representative,0,15,Male,1.0,1,Best,No,Very High,15,80,High
+332,Y,32,High,3.0,10.0,Research & Development,9,Bachelor,Medical,8.0,High,3,2,Married,20078.0,no travel,Very High,Research Director,7,24,Female,1.0,1,Best,No,High,12,80,High
+333,Y,42,Medium,8.0,4.0,Research & Development,0,Secondary,Life Sciences,13.0,High,1,0,,6769.0,no travel,High,Research Scientist,2,18,Male,1.0,0,Better,No,High,5,80,High
+334,Y,26,High,6.0,2.0,Sales,0,Bachelor,Marketing,19.0,Medium,2,0,Married,16139.0,rare,High,Sales Executive,2,22,Female,1.0,1,Good,Yes,Very High,4,80,High
+335,Y,44,Low,,1.0,Research & Development,0,Bachelor,Medical,24.0,Low,2,0,Single,7514.0,rare,High,Laboratory Technician,0,22,Male,0.0,2,Better,No,Very High,14,80,Medium
+336,Y,39,Medium,0.0,5.0,Human Resources,2,Master,Other,1.0,High,1,0,Married,4367.0,frequent,High,Human Resources,2,11,Male,1.0,1,Better,Yes,Medium,6,80,Very High
+337,Y,31,Medium,6.0,2.0,Sales,2,Secondary,Technical Degree,21.0,High,2,1,Married,4981.0,no travel,High,Sales Executive,2,12,Female,1.0,1,Best,Yes,High,3,80,Very High
+338,Y,47,Medium,1.0,8.0,Research & Development,9,Secondary,Life Sciences,3.0,High,2,0,Married,17393.0,no travel,High,Laboratory Technician,7,12,Male,0.0,4,Good,No,Medium,8,80,High
+339,Y,58,Very High,3.0,17.0,Research & Development,12,Secondary,Medical,1.0,Low,5,6,Married,5651.0,rare,High,Manager,10,15,Female,1.0,4,Better,No,High,21,80,Very High
+340,Y,32,High,0.0,8.0,Research & Development,6,Bachelor,Medical,9.0,High,2,5,Married,13186.0,rare,High,Healthcare Representative,7,11,Female,2.0,1,Bad,Yes,Very High,9,80,Very High
+341,Y,53,Low,2.0,9.0,Research & Development,6,Primary,Life Sciences,3.0,High,5,0,Divorced,12057.0,rare,High,Research Director,4,15,Male,2.0,3,Good,No,Medium,25,80,Low
+342,Y,41,Low,2.0,6.0,Sales,6,Bachelor,Medical,5.0,Very High,3,4,Married,3956.0,rare,High,Sales Executive,6,11,Male,1.0,2,Better,No,High,10,80,Very High
+343,Y,46,High,2.0,18.0,Research & Development,18,Bachelor,Life Sciences,23.0,High,4,9,Married,16602.0,rare,High,Research Director,6,14,Male,1.0,0,Best,No,Low,22,80,Very High
+344,Y,24,High,1.0,,Sales,3,Primary,Medical,3.0,High,2,0,Married,11619.0,rare,High,Sales Executive,4,12,Female,2.0,2,Better,Yes,High,4,80,Very High
+345,Y,37,Medium,8.0,3.0,Research & Development,1,Master,Life Sciences,9.0,High,2,0,Married,9593.0,rare,High,Manufacturing Director,2,12,Female,2.0,1,Better,Yes,High,6,80,High
+346,Y,26,Medium,0.0,,Human Resources,0,Master,Life Sciences,14.0,High,1,0,Divorced,,frequent,High,Human Resources,7,11,,1.0,1,Good,Yes,High,7,80,Medium
+347,Y,24,Very High,7.0,4.0,Research & Development,2,Bachelor,Medical,20.0,High,1,0,Single,5228.0,rare,Very High,Laboratory Technician,3,26,Male,0.0,1,Better,No,Medium,5,80,Very High
+348,Y,38,Low,3.0,3.0,Research & Development,2,Bachelor,Medical,8.0,High,1,0,Single,14447.0,rare,High,Laboratory Technician,2,21,Female,0.0,4,Better,No,High,7,80,Low
+349,Y,32,High,2.0,3.0,Sales,2,Master,Medical,10.0,High,2,0,Divorced,8933.0,rare,High,Sales Executive,1,19,Male,0.0,1,Bad,No,Low,8,80,Medium
+350,Y,36,Medium,,12.0,Sales,12,Secondary,Marketing,7.0,Medium,3,2,Married,10561.0,no travel,High,Sales Executive,2,11,Female,1.0,4,Good,Yes,Very High,14,80,High
+351,Y,36,Very High,2.0,,Sales,8,Master,Life Sciences,14.0,High,2,0,Married,15841.0,rare,High,Sales Executive,7,17,Male,3.0,1,Better,Yes,Low,13,80,High
+352,Y,43,Medium,,20.0,Sales,4,Master,Life Sciences,1.0,High,4,0,Single,12116.0,rare,High,Manager,11,22,Male,0.0,1,Better,No,Medium,20,80,Very High
+353,Y,32,High,6.0,1.0,Sales,0,Bachelor,Life Sciences,1.0,Medium,1,0,Single,9201.0,frequent,High,Sales Representative,0,15,Female,0.0,2,Best,No,Very High,3,80,High
+354,Y,34,Low,6.0,8.0,Research & Development,8,Secondary,,1.0,High,1,0,Married,16192.0,rare,Very High,Laboratory Technician,7,24,Female,0.0,2,Best,No,Low,12,80,Low
+355,Y,41,Very High,1.0,19.0,Research & Development,10,Primary,Medical,8.0,High,4,7,Married,4462.0,rare,High,Manager,10,15,Male,0.0,2,Better,Yes,Low,19,80,High
+356,Y,29,Low,1.0,9.0,Research & Development,10,Secondary,Technical Degree,20.0,Medium,3,0,Single,9545.0,no travel,High,Healthcare Representative,7,12,Male,0.0,1,Good,No,Low,9,80,Medium
+357,Y,31,Medium,2.0,4.0,Sales,3,Master,Technical Degree,24.0,High,3,0,Married,13498.0,rare,High,Sales Executive,2,12,Male,1.0,2,Better,No,Medium,8,80,High
+358,Y,29,Very High,,4.0,Sales,3,Bachelor,Medical,4.0,High,2,0,Single,17630.0,rare,High,Sales Executive,4,21,Male,0.0,3,Better,No,Low,5,80,Very High
+359,Y,31,High,1.0,9.0,Research & Development,10,Bachelor,Life Sciences,19.0,Low,1,0,Divorced,16773.0,frequent,Very High,Research Scientist,7,31,Male,,1,Good,No,High,9,80,Low
+360,Y,48,High,6.0,4.0,Research & Development,3,Master,Medical,1.0,High,3,0,Divorced,9554.0,rare,High,Healthcare Representative,2,18,Male,1.0,2,Better,No,Low,15,80,Very High
+361,Y,41,Very High,0.0,8.0,Research & Development,9,Bachelor,Medical,3.0,High,2,2,Single,2854.0,frequent,High,Manufacturing Director,2,14,Female,0.0,1,Bad,No,High,9,80,Low
+362,Y,37,Medium,,4.0,Research & Development,2,Secondary,Life Sciences,3.0,High,2,0,Divorced,7248.0,frequent,High,Manufacturing Director,2,14,Female,3.0,2,Better,No,Medium,16,80,Very High
+363,Y,58,High,2.0,4.0,Research & Development,2,Bachelor,Medical,7.0,High,4,0,Divorced,14900.0,rare,High,Manager,0,15,Female,3.0,1,Better,Yes,High,19,80,Very High
+364,Y,33,High,0.0,8.0,Research & Development,6,Bachelor,Medical,1.0,High,2,0,Divorced,19103.0,rare,High,Research Scientist,5,14,Male,2.0,3,Good,No,Medium,9,80,Very High
+365,Y,30,Very High,0.0,6.0,Research & Development,1,Bachelor,Life Sciences,8.0,High,1,0,Divorced,13600.0,frequent,High,Research Scientist,5,15,Female,2.0,1,Good,No,Medium,7,80,Very High
+366,Y,36,Very High,1.0,1.0,Research & Development,1,Primary,Life Sciences,7.0,Very High,1,0,Married,4126.0,rare,High,Laboratory Technician,0,22,Male,0.0,1,Better,No,Very High,1,80,Very High
+367,Y,25,Very High,1.0,5.0,Research & Development,6,Secondary,Life Sciences,4.0,Very High,2,0,Divorced,13923.0,no travel,High,Healthcare Representative,3,12,Male,2.0,1,Better,No,Low,5,80,Medium
